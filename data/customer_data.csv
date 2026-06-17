@@ -1,0 +1,104 @@
+Customer ID,First Name,Last Name,Phone,Email,Communication Preference,Street Address,City,State,Zip Code,Company Name
+5O5C5D4A2,John,Franklin,1234567890,john.doe@example.com,Email,123 Main St,Anytown,California,12345,Acme Inc.
+7E8R6T1W9,Jane,Smith,1234567890,jane.smith@example.com,Phone,456 Broadway St,Smallville,Illinois,67890,XYZ Corporation
+9B6U7K2N1,Bob,Johnson,1234567890,bob.johnson@example.com,Email,789 Oak St,Anytown,California,12345,Acme Inc.
+1A2I3Z4Q8,Alice,Wong,1234567890,alice.wong@example.com,Phone,456 Pine St,Big City,New York,54321,ABC Corp.
+3P6F8J2H9,David,Lee,1234567890,david.lee@example.com,Email,789 Main St,Smallville,Texas,67890,XYZ Corporation
+5S7V9X4Y6,Kate,Williams,1234567890,kate.williams@example.com,Phone,1234 Maple St,Anytown,California,12345,Acme Inc.
+8C3D6N7R2,Michael,Johnson,1234567890,michael.johnson@example.com,Email,567 Oak St,Smallville,Florida,67890,ABC Corp.
+2E5Z6F7G9,Alex,Wang,1234567890,alex.wang@example.com,Phone,789 Main St,Big City,New York,54321,Acme Inc.
+4H6R9Y1U3,Emily,Chen,1234567890,emily.chen@example.com,Email,1234 Pine St,Smallville,Georgia,67890,XYZ Corporation
+7V4M5F8N6,Olivia,Smith,1234567890,olivia.smith@example.com,Phone,567 Maple St,Anytown,California,12345,ABC Corp.
+2S5P7J9V4,Emma,Johnson,1234567890,emma.johnson@example.com,Email,789 Oak St,Big City,New York,54321,Acme Inc.
+4T6W8Y2U1,Ethan,Williams,1234567890,ethan.williams@example.com,Phone,1234 Main St,Smallville,Florida,67890,XYZ Corporation
+1H3R5Y7U9,Grace,Chen,1234567890,grace.chen@example.com,Email,456 Pine St,Anytown,California,12345,ABC Corp.
+6T9G1E2X4,Oliver,Smith,1234567890,oliver.smith@example.com,Phone,789 Maple St,Smallville,Georgia,67890,Acme Inc.
+8J4V7H5N6,James,Johnson,1234567890,james.johnson@example.com,Email,1234 Oak St,Big City,New York,54321,XYZ Corporation
+2C5D8N1R9,Elizabeth,Wang,1234567890,elizabeth.wang@example.com,Phone,567 Pine St,Anytown,California,12345,ABC Corp.
+3T6U9G2H8,William,Lee,1234567890,william.lee@example.com,Email,789 Maple St,Smallville,Georgia,67890,Acme Inc.
+4A7E9K6D1,Samantha,Smith,1234567890,samantha.smith@example.com,Phone,456 Pine St,Big City,New York,54321,XYZ Corporation
+2Q5W7E4R1,Natalie,Johnson,1234567890,natalie.johnson@example.com,Email,1234 Oak St,Anytown,California,12345,ABC Corp.
+8Y4U5I2O7,Matthew,Wang,1234567890,matthew.wang@example.com,Phone,567 Main St,Smallville,Florida,67890,Acme Inc.
+6F8J9V2X5,Mia,Chen,1234567890,mia.chen@example.com,Email,789 Pine St,Big City,New York,54321,XYZ Corporation
+3C6D9N2R8,Aiden,Williams,1234567890,aiden.williams@example.com,Phone,1234 Maple St,Anytown,California,12345,ABC Corp.
+5H7Y9U1I3,Isabella,Smith,1234567890,isabella.smith@example.com,Email,456 Oak St,Smallville,Illinois,67890,Acme Inc.
+2Q4W6R8T1,Evelyn,Johnson,1234567890,evelyn.johnson@example.com,Phone,789 Pine St,Big City,New York,54321,XYZ Corporation
+7E9F2G3H1,Jacob,Wang,1234567890,jacob.wang@example.com,Email,1234 Main St,Anytown,California,12345,ABC Corp.
+4K6D8N2R9,Chloe,Chen,1234567890,chloe.chen@example.com,Phone,567 Oak St,Smallville,Florida,67890,Acme Inc.
+3T6U9G1E2,Christopher,Smith,1234567890,christopher.smith@example.com,Email,789 Maple St,Smallville,Illinois,67890,XYZ Corporation
+4A7S9D1F6,Avery,Johnson,1234567890,avery.johnson@example.com,Phone,456 Main St,Big City,New York,54321,ABC Corp.
+2Q5E7R4W1,Abigail,Wang,1234567890,abigail.wang@example.com,Email,1234 Pine St,Anytown,California,12345,Acme Inc.
+8Y4I5U2O7,Andrew,Williams,1234567890,andrew.williams@example.com,Phone,567 Maple St,Smallville,Florida,67890,XYZ Corporation
+6F8V2J9X5,Avery,Chen,1234567890,avery.chen@example.com,Email,789 Oak St,Big City,New York,54321,ABC Corp.
+3C6N9R2D8,Benjamin,Smith,1234567890,benjamin.smith@example.com,Phone,1234 Maple St,Anytown,California,12345,Acme Inc.
+2B5K7V8M3,Alexandra,Brown,1234567890,alexandra.brown@example.com,Email,789 Oak St,Big City,New York,54321,ABC Corp.
+6C8E9H1T2,Oliver,Li,1234567890,oliver.li@example.com,Phone,456 Pine St,Smallville,Florida,67890,Acme Inc.
+3T7U9G2J8,Ava,Jones,1234567890,ava.jones@example.com,Email,1234 Maple St,Anytown,California,12345,XYZ Corporation
+4A8S6D2F9,James,Anderson,1234567890,james.anderson@example.com,Phone,567 Main St,Big City,New York,54321,Acme Inc.
+2Q6W4E8T1,Emily,Thomas,1234567890,emily.thomas@example.com,Email,789 Oak St,Smallville,Georgia,67890,ABC Corp.
+9Y5U2I1O7,Benjamin,Garcia,1234567890,benjamin.garcia@example.com,Phone,456 Pine St,Big City,New York,54321,XYZ Corporation
+7F8J6V2X5,Sophia,Smith,1234567890,sophia.smith@example.com,Email,1234 Main St,Anytown,California,12345,Acme Inc.
+4K7D9N1R6,Lucas,Johnson,1234567890,lucas.johnson@example.com,Phone,567 Oak St,Smallville,Illinois,67890,XYZ Corporation
+3T6U9G2H0,Abigail,Anderson,1234567890,abigail.anderson@example.com,Email,789 Pine St,Big City,New York,54321,ABC Corp.
+4A7E9K6D5,Michael,Smith,1234567890,michael.smith@example.com,Phone,456 Maple St,Smallville,Florida,67890,Acme Inc.
+4C7E9K2D8,Samantha,Rodriguez,1234567890,samantha.rodriguez@example.com,Email,1234 Oak St,Big City,New York,54321,ABC Corp.
+2S4D6F8G0,Daniel,Nguyen,1234567890,daniel.nguyen@example.com,Email,789 Maple St,Anytown,California,12345,XYZ Corporation
+1A2S3D4F5,Ethan,Johnson,1234567890,ethan.johnson@example.com,Phone,456 Oak St,Big City,New York,54321,Acme Inc.
+6K7J8L9H0,Victoria,Garcia,1234567890,victoria.garcia@example.com,Email,789 Maple St,Smallville,Georgia,67890,ABC Corp.
+4C6E8G2K1,Brandon,Kim,1234567890,brandon.kim@example.com,Email,567 Main St,Anytown,California,12345,Acme Inc.
+9N8B7V6C5,Elizabeth,Smith,1234567890,elizabeth.smith@example.com,Phone,789 Oak St,Smallville,Illinois,67890,XYZ Corporation
+2D4F6G8H0,Joshua,Rodriguez,1234567890,joshua.rodriguez@example.com,Email,456 Main St,Big City,New York,54321,ABC Corp.
+1A2S3D4F5,Grace,Li,1234567890,grace.li@example.com,Phone,789 Oak St,Smallville,Florida,67890,Acme Inc.
+5H6J7K8L9,Christopher,Lee,1234567890,christopher.lee@example.com,Email,456 Pine St,Anytown,California,12345,XYZ Corporation
+3G5H7J9K1,William,Miller,1234567890,william.miller@example.com,Email,1234 Pine St,Smallville,Georgia,67890,ABC Corp.
+1A2S3D4F5,Samantha,Jones,1234567890,samantha.jones@example.com,Phone,567 Maple St,Big City,New York,54321,XYZ Corporation
+4F6G8H0J2,Lillian,Nguyen,1234567890,lillian.nguyen@example.com,Email,789 Main St,Anytown,California,12345,Acme Inc.
+1A3S5D7F9,Anthony,Martin,1234567890,anthony.martin@example.com,Phone,456 Oak St,Smallville,Illinois,67890,XYZ Corporation
+J9E2K6L3R,Tyler,Hughes,1234567890,tyler.hughes@example.com,Email,456 Oak St,Big City,New York,54321,XYZ Corporation
+U2Q6M8W4S,Mia,Ross,1234567890,mia.ross@example.com,Phone,234 Pine St,Smallville,Florida,67890,Acme Inc.
+V3B6T9C7L,Oliver,Smith,1234567890,oliver.smith@example.com,Email,567 Maple St,Big City,New York,54321,XYZ Corporation
+K1X9D5F3N,Samantha,Taylor,1234567890,samantha.taylor@example.com,Phone,789 Oak St,Smallville,Florida,67890,Acme Inc.
+A5F7G6H2J,Ethan,Turner,1234567890,ethan.turner@example.com,Email,123 Main St,Big City,New York,54321,XYZ Corporation
+R7T8B2F1X,Amelia,Ramirez,1234567890,amelia.ramirez@example.com,Phone,345 Maple St,Smallville,Florida,67890,Acme Inc.
+G2N8P6W4L,Avery,Wood,1234567890,avery.wood@example.com,Email,567 Oak St,Big City,New York,54321,XYZ Corporation
+T1Y3V7F9D,Isaac,Hall,1234567890,isaac.hall@example.com,Phone,234 Pine St,Smallville,Florida,67890,Acme Inc.
+B6J7N5K8H,Samantha,Nguyen,1234567890,samantha.nguyen@example.com,Email,456 Main St,Big City,New York,54321,XYZ Corporation
+R4X9V7B6F,Cameron,Anderson,1234567890,cameron.anderson@example.com,Phone,789 Oak St,Smallville,Florida,67890,Acme Inc.
+N7K3H5L4S,Madison,King,1234567890,madison.king@example.com,Email,123 Oak St,Big City,New York,54321,XYZ Corporation
+Z8W6J7F9T,Liam,Wright,1234567890,liam.wright@example.com,Phone,567 Maple St,Smallville,Florida,67890,Acme Inc.
+K2P6J8F3T,Abigail,Baker,1234567890,abigail.baker@example.com,Email,789 Pine St,Big City,New York,54321,XYZ Corporation
+T8W7R6D4J,Evelyn,Walker,1234567890,evelyn.walker@example.com,Phone,345 Oak St,Smallville,Florida,67890,Acme Inc.
+G5B1X9F7H,Landon,Garcia,1234567890,landon.garcia@example.com,Email,234 Maple St,Big City,New York,54321,XYZ Corporation
+V7S3P2K5B,Natalie,Green,1234567890,natalie.green@example.com,Phone,456 Main St,Smallville,Florida,67890,Acme Inc.
+N3G1H7R9X,Levi,Lopez,1234567890,levi.lopez@example.com,Email,345 Oak St,Big City,New York,54321,XYZ Corporation
+B5K3F1N7D,Chloe,Cooper,1234567890,chloe.cooper@example.com,Phone,789 Pine St,Smallville,Florida,67890,Acme Inc.
+V7S3M6C4X,Asher,Evans,1234567890,asher.evans@example.com,Email,123 Oak St,Big City,New York,54321,XYZ Corporation
+R1W9D5Z3B,Liliana,Perez,1234567890,liliana.perez@example.com,Phone,567 Maple St,Smallville,Florida,67890,Acme Inc.
+L4J8P2W7V,Miles,Parker,1234567890,miles.parker@example.com,Email,789 Pine St,Big City,New York,54321,XYZ Corporation
+N2B1F9C8P,Isabella,Ramirez,1234567890,isabella.ramirez@example.com,Phone,234 Maple St,Smallville,Florida,67890,Acme Inc.
+P5J3G7D1V,Grayson,Gonzalez,1234567890,grayson.gonzalez@example.com,Email,567 Oak St,Big City,New York,54321,XYZ Corporation
+T7Z3L6R9X,Elizabeth,Flores,1234567890,elizabeth.flores@example.com,Phone,789 Pine St,Smallville,Florida,67890,Acme Inc.
+H9R6N4F1S,Mason,Hall,1234567890,mason.hall@example.com,Email,345 Pine St,Big City,New York,54321,XYZ Corporation
+L8S4H6Z2J,Aubrey,Morris,1234567890,aubrey.morris@example.com,Phone,567 Maple St,Smallville,Florida,67890,Acme Inc.
+K9G6B1Z3J,Audrey,Campbell,1234567890,audrey.campbell@example.com,Email,123 Oak St,Big City,New York,54321,XYZ Corporation
+M5J2P8V7N,Gabriel,Reyes,1234567890,gabriel.reyes@example.com,Phone,345 Pine St,Smallville,Florida,67890,Acme Inc.
+Z9C5H3W1F,Jocelyn,Turner,1234567890,jocelyn.turner@example.com,Email,789 Oak St,Big City,New York,54321,XYZ Corporation
+F7H1N4S8J,Diego,Flores,1234567890,diego.flores@example.com,Phone,234 Maple St,Smallville,Florida,67890,Acme Inc.
+D2P4F9R7N,Victoria,Carter,1234567890,victoria.carter@example.com,Email,456 Maple St,Big City,New York,54321,XYZ Corporation
+Z6F1R9C3T,Andrew,Rodriguez,1234567890,andrew.rodriguez@example.com,Phone,789 Oak St,Smallville,Florida,67890,Acme
+H8N7W4J1G,Jade,Collins,1234567890,jade.collins@example.com,Email,456 Maple St,Smallville,Florida,67890,Acme Inc.
+K3G9S1F7M,Nathan,Smith,1234567890,nathan.smith@example.com,Phone,789 Oak St,Big City,New York,54321,XYZ Corporation
+J1K3V7H5D,Makayla,Allen,1234567890,makayla.allen@example.com,Email,234 Maple St,Smallville,Florida,67890,Acme Inc.
+C2P6J8G5K,Isabelle,Hill,1234567890,isabelle.hill@example.com,Phone,456 Oak St,Big City,New York,54321,XYZ Corporation
+P9K2F3J1L,Ruben,Gonzales,1234567890,ruben.gonzales@example.com,Email,789 Pine St,Smallville,Florida,67890,Acme Inc.
+G4N8W7J6B,Naomi,Lopez,1234567890,naomi.lopez@example.com,Phone,123 Oak St,Big City,New York,54321,XYZ Corporation
+D2K7H9T8C,Emmett,Kim,1234567890,emmett.kim@example.com,Email,567 Pine St,Smallville,Florida,67890,Acme Inc.
+J3N5W2S4P,Sadie,Rodriguez,1234567890,sadie.rodriguez@example.com,Phone,789 Oak St,Big City,New York,54321,XYZ Corporation
+W4G2F6K7R,Leonardo,Fernandez,1234567890,leonardo.fernandez@example.com,Email,234 Maple St,Smallville,Florida,67890,Acme Inc.
+N7P9F3Z2D,Naomi,Campbell,1234567890,naomi.campbell@example.com,Phone,456 Oak St,Big City,New York,54321,XYZ Corporation
+L8N1Z3B7D,Alex,Nguyen,1234567890,alex.nguyen@example.com,Email,789 Pine St,Smallville,Florida,67890,Acme Inc.
+J2L9W6D8N,Avery,Gonzalez,1234567890,avery.gonzalez@example.com,Phone,123 Maple St,Big City,New York,54321,XYZ Corporation
+M1B4K6W7N,Anthony,Taylor,1234567890,anthony.taylor@example.com,Email,567 Oak St,Smallville,Florida,67890,Acme Inc.
+H3R5P6N9G,Emma,Martinez,1234567890,emma.martinez@example.com,Phone,789 Pine St,Big City,New York,54321,XYZ Corporation
+S9B1H7F4Z,William,Davis,1234567890,william.davis@example.com,Email,234 Maple St,Smallville,Florida,67890,Acme Inc.
+N8W6D1H3F,Jacob,Allen,1234567890,jacob.allen@example.com,Phone,456 Oak St,Big City,New York,54321,XYZ Corporation
